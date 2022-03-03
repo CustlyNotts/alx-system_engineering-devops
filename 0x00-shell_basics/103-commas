@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pams
+ls -pam
