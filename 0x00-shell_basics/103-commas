@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pamn
+ls -pamsn
